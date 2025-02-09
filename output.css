@@ -1043,6 +1043,10 @@ input:checked + .toggle-bg {
   margin-bottom: 1.5rem;
 }
 
+.mr-0 {
+  margin-right: 0.0rem;
+}
+
 .mr-3 {
   margin-right: 0.75rem;
 }
@@ -2101,6 +2105,10 @@ input:checked + .toggle-bg {
   }
 
   .sm\:mr-2 {
+    margin-right: 0.5rem;
+  }
+
+  .sm\:mr-0 {
     margin-right: 0.5rem;
   }
 
